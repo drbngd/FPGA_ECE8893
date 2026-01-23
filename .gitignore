@@ -1,0 +1,36 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Executables
+*.exe
+*.dll
+*.so
+*.dylib
+result
+
+# Xilinx/Vivado/Vitis generated files
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.proto
+
+# Vitis HLS project directories
+project_*/
+solution*/
+sol*/
+.Xil/
+
+# Temp files
+temp/
+tmp/
+*~
+*.swp
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
